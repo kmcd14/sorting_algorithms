@@ -18,11 +18,11 @@ This repository contains all files, scripts and documentation for a benchmarking
   
  ## Repository Contents
  
-- sorting_algorithms - folder cotaining the code for each of the 5 chosen algorithms (bubble, counting, insertion, quick and selection sort).
-- G00398279 Conceptual Thinking with Algorithms Project Report.pdf - Final project report, incudes diagrams.
-- benchmarking.py - The main program, containing the five sorting algorithms and the benchmarking script.
-- benchmarking_results_plot - file containing the output image of benchmarking.py.
-- project brief.pdf - a file containing the project brief. 
+- ```sorting_algorithms``` - folder cotaining the code for each of the 5 chosen algorithms (bubble, counting, insertion, quick and selection sort).
+- ```G00398279 Conceptual Thinking with Algorithms Project Report.pdf``` - Final project report, incudes diagrams.
+- ```benchmarking.py``` - The main program, containing the five sorting algorithms and the benchmarking script.
+- ```benchmarking_results_plot.pgn``` - file containing the output image of benchmarking.py.
+- ```project brief.pdf``` - a file containing the project brief. 
 
 
 ---
@@ -35,10 +35,12 @@ This repository contains all files, scripts and documentation for a benchmarking
 3. Open your terminal and navigate to the location where you want to store the cloned directory.
 4. In the terminal type the command and press enter. The cloned repository is now on your machine:
 
-``
+
+```
+
   $git clone git@github.com:kmcd14/sorting_algorithms.git
   
-``
+```
 
 
 
