@@ -1,4 +1,4 @@
-# Conceptual Thinking with Algorithms Project - sSorting Algorithms
+# Conceptual Thinking with Algorithms Project - Sorting Algorithms
 
 This repository contains all files, scripts and documentation for a benchmarking application which finds the average time complexity of 5 sorting algorithms.  (conceptual thinkning with algorithms project)
 
